@@ -10,7 +10,7 @@
     <script src="../lib/angular/angular-bootstrap.js"></script>
     <script src="../lib/angular/ui-bootstrap-tpls-0.4.0.js"></script>
 
-    <script src="/auth/js/keycloak.js"></script>
+    <script src="${keycloak.url}/auth/js/keycloak.js"></script>
     <script src="js/app.js" type="text/javascript"></script>
 
     <link href="../css/bootstrap.min.css" rel="stylesheet">
