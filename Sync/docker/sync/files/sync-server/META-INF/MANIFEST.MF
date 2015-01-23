@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Build-Timestamp: Fri, 23 Jan 2015 00:59:16 -0500
+Build-Timestamp: Fri, 23 Jan 2015 14:41:46 -0500
 Implementation-Title: AeroGear Data Synchronization Netty Server
 Implementation-Version: 0.0.1-SNAPSHOT
 Os-Version: 3.17.7-300.fc21.x86_64
