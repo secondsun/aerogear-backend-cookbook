@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datasources xmlns="http://www.jboss.org/ironjacamar/schema">
+    <datasource jndi-name="java:jboss/datasources/SyncDemoDS" pool-name="SyncDemoDS" enabled="true" use-java-context="true">
+        <connection-url>jdbc:postgresql://postgres/keycloak</connection-url>
+        <driver>postgresql</driver>
+        <security>
+            <user-name>keycloak</user-name>
+            <password>keycloak</password>
+        </security>
+    </datasource>
+</datasources>
+
