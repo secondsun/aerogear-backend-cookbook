@@ -7,5 +7,5 @@ RUN cd /opt/jboss/sync-server; cp ../sync.config ./sync.config; jar -cMf ../sync
 RUN chown -R jboss:jboss /opt/jboss
 
 EXPOSE 7777
-
+EXPOSE 5235
 CMD java -jar /opt/jboss/sync-server.jar
