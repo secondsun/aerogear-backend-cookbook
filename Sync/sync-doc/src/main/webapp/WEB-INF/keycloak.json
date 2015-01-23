@@ -1,0 +1,7 @@
+{
+  "realm": "sync-demo",
+  "realm-public-key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCAzeVOAp/+UDzUaOy+ZB+e/JchleRKQ5D8xg+u2vNQJNyRJYcp+Q8eejYmrqOu6E1f0OExiwrlZuETsr+ohkPcMqSUEzBxfTP3eiIbuSd0SAgsc+x9yW4f/4E71qWkYOds7I9KbEjEdJjkDjcM6W0l0YEyg4nBJLPzAJTOIPCjEQIDAQAB",
+  "bearer-only": true,
+  "ssl-required": "none",
+  "resource": "web-services"
+}
