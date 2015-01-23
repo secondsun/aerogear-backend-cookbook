@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Build-Timestamp: Fri, 23 Jan 2015 00:59:16 -0500
+Implementation-Title: AeroGear Data Synchronization Netty Server
+Implementation-Version: 0.0.1-SNAPSHOT
+Os-Version: 3.17.7-300.fc21.x86_64
+Built-By: summers
+Specification-Vendor: JBoss by Red Hat
+Created-By: Apache Maven 3.2.3
+Os-Name: Linux
+Implementation-URL: http://aerogear.org/sync-server-dist/
+Java-Vendor: Oracle Corporation
+Implementation-Vendor: JBoss by Red Hat
+Scm-Revision: 9df57605e2dace4c4176a277442fffb882907ff6
+Implementation-Vendor-Id: org.jboss.aerogear
+Scm-Url: https://github.com/aerogear/aerogear-parent/sync-parent/sync-
+ server-dist
+Build-Jdk: 1.7.0_25
+Java-Version: 1.7.0_25
+Scm-Connection: scm:git:git://github.com/aerogear/aerogear-parent.git/
+ sync-parent/sync-server-dist
+Os-Arch: amd64
+Specification-Title: AeroGear Data Synchronization Netty Server
+Specification-Version: 0.0.1-SNAPSHOT
+Main-Class: org.jboss.aerogear.sync.DiffSyncServer
+Archiver-Version: Plexus Archiver
+
